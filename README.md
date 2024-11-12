@@ -1,0 +1,2 @@
+# Community-epidemic-control-system-for-returning-home
+基于Spring Boot和Vue的社区疫情返乡管控系统是一款为疫情防控而设计的管理工具。后端利用Spring Boot构建RESTful API，支持返乡人员信息登记、健康状态监测和动态更新。前端采用Vue.js提供直观的用户界面，方便居民进行返乡申请和信息查询。该系统旨在加强社区对返乡人员的管理，确保疫情防控措施的有效执行，提升社区的公共安全和健康管理水平。
